@@ -150,7 +150,7 @@ All data (users, accounts, categories, etc.) was **generated manually** within `
 ## 📚 License & Credit
 
 Project developed as part of **CS50 SQL Final Project – May 2025**.  
-Developed by: Sayqin Rustamli
+Developed by: Sayqin Rustamli and Erleta Mziu
 
 ---
 
